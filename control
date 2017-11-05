@@ -1,7 +1,7 @@
-Package: com.yourcompany.whitepointreduction
-Name: whitepointreduction
-Description: A simple switch for the Flipswitch API!
-Version: 0.0.1
+Package: net.erike.reducewhitepoint
+Name: Reduce White Point
+Description: Activate/Deactivate Reduce White Point
+Version: 1.0
 Priority: optional
 Section: Addons (Flipswitch)
 Architecture: iphoneos-arm
