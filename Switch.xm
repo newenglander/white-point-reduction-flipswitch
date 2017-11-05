@@ -18,7 +18,7 @@
 @implementation whitepointreductionSwitch
 
 - (NSString *)titleForSwitchIdentifier:(NSString *)switchIdentifier {
-	return @"White point reduction";
+	return @"Reduce White Point";
 }
 
 - (FSSwitchState)stateForSwitchIdentifier:(NSString *)switchIdentifier {
